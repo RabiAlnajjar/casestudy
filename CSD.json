@@ -1,0 +1,17 @@
+[
+    {"PRONAME":"Nike Air Max","GRANAME":"nike_air_max.jpg","COSTPRICE":"120.00","MSRP":"150.00","QTYONHAND":"100","QTYONBACKORDER":"0","ITEM":"Nike Air Max shoes, comfortable and stylish.","BRAND":"Nike"},
+    {"PRONAME":"Nike Revolution","GRANAME":"nike_revolution.jpg","COSTPRICE":"90.00","MSRP":"110.00","QTYONHAND":"80","QTYONBACKORDER":"0","ITEM":"Nike Revolution running shoes with great support.","BRAND":"Nike"},
+    {"PRONAME":"Nike Flex","GRANAME":"nike_flex.jpg","COSTPRICE":"100.00","MSRP":"130.00","QTYONHAND":"60","QTYONBACKORDER":"0","ITEM":"Nike Flex shoes, perfect for workouts.","BRAND":"Nike"},
+    {"PRONAME":"Nike Zoom","GRANAME":"nike_zoom.jpg","COSTPRICE":"110.00","MSRP":"140.00","QTYONHAND":"70","QTYONBACKORDER":"0","ITEM":"Nike Zoom shoes for fast runs.","BRAND":"Nike"},
+    {"PRONAME":"Nike Metcon","GRANAME":"nike_metcon.jpg","COSTPRICE":"130.00","MSRP":"160.00","QTYONHAND":"50","QTYONBACKORDER":"0","ITEM":"Nike Metcon shoes for intense workouts.","BRAND":"Nike"},
+    {"PRONAME":"Adidas Ultraboost","GRANAME":"adidas_ultraboost.jpg","COSTPRICE":"150.00","MSRP":"180.00","QTYONHAND":"100","QTYONBACKORDER":"0","ITEM":"Adidas Ultraboost shoes, extremely comfortable.","BRAND":"Adidas"},
+    {"PRONAME":"Adidas NMD","GRANAME":"adidas_nmd.jpg","COSTPRICE":"140.00","MSRP":"170.00","QTYONHAND":"90","QTYONBACKORDER":"0","ITEM":"Adidas NMD shoes, stylish and versatile.","BRAND":"Adidas"},
+    {"PRONAME":"Adidas Gazelle","GRANAME":"adidas_gazelle.jpg","COSTPRICE":"100.00","MSRP":"130.00","QTYONHAND":"80","QTYONBACKORDER":"0","ITEM":"Adidas Gazelle shoes, a classic style.","BRAND":"Adidas"},
+    {"PRONAME":"Adidas Stan Smith","GRANAME":"adidas_stansmith.jpg","COSTPRICE":"110.00","MSRP":"140.00","QTYONHAND":"70","QTYONBACKORDER":"0","ITEM":"Adidas Stan Smith shoes, timeless design.","BRAND":"Adidas"},
+    {"PRONAME":"Adidas Superstar","GRANAME":"adidas_superstar.jpg","COSTPRICE":"120.00","MSRP":"150.00","QTYONHAND":"60","QTYONBACKORDER":"0","ITEM":"Adidas Superstar shoes, iconic style.","BRAND":"Adidas"},
+    {"PRONAME":"Puma Suede","GRANAME":"puma_suede.jpg","COSTPRICE":"90.00","MSRP":"120.00","QTYONHAND":"100","QTYONBACKORDER":"0","ITEM":"Puma Suede shoes, classic and stylish.","BRAND":"Puma"},
+    {"PRONAME":"Puma Roma","GRANAME":"puma_roma.jpg","COSTPRICE":"80.00","MSRP":"110.00","QTYONHAND":"90","QTYONBACKORDER":"0","ITEM":"Puma Roma shoes, sporty and comfortable.","BRAND":"Puma"},
+    {"PRONAME":"Puma Future Rider","GRANAME":"puma_future_rider.jpg","COSTPRICE":"100.00","MSRP":"130.00","QTYONHAND":"80","QTYONBACKORDER":"0","ITEM":"Puma Future Rider shoes, modern design.","BRAND":"Puma"},
+    {"PRONAME":"Puma RS-X","GRANAME":"puma_rsx.jpg","COSTPRICE":"110.00","MSRP":"140.00","QTYONHAND":"70","QTYONBACKORDER":"0","ITEM":"Puma RS-X shoes, futuristic style.","BRAND":"Puma"},
+    {"PRONAME":"Puma Clyde","GRANAME":"puma_clyde.jpg","COSTPRICE":"95.00","MSRP":"125.00","QTYONHAND":"60","QTYONBACKORDER":"0","ITEM":"Puma Clyde shoes, classic and trendy.","BRAND":"Puma"}
+]
