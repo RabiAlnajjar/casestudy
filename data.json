@@ -1,0 +1,183 @@
+{
+  "brands": [
+    {
+      "Id": 1,
+      "Name": "Nike"
+    },
+    {
+      "Id": 2,
+      "Name": "Adidas"
+    },
+    {
+      "Id": 3,
+      "Name": "Puma"
+    }
+  ],
+  "products": [
+    {
+      "Id": 1,
+      "BrandId": 1,
+      "productsName": "Nike Air Max",
+      "GraphicName": "nike_air_max.jpg",
+      "CostPrice": 120.00,
+      "MSRP": 150.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 0,
+      "Description": "Nike Air Max shoes, comfortable and stylish."
+    },
+    {
+      "Id": 2,
+      "BrandId": 1,
+      "productsName": "Nike Revolution",
+      "GraphicName": "nike_revolution.jpg",
+      "CostPrice": 90.00,
+      "MSRP": 110.00,
+      "QtyOnHand": 80,
+      "QtyOnBackOrder": 0,
+      "Description": "Nike Revolution running shoes with great support."
+    },
+    {
+      "Id": 3,
+      "BrandId": 1,
+      "productsName": "Nike Flex",
+      "GraphicName": "nike_flex.jpg",
+      "CostPrice": 100.00,
+      "MSRP": 130.00,
+      "QtyOnHand": 60,
+      "QtyOnBackOrder": 0,
+      "Description": "Nike Flex shoes, perfect for workouts."
+    },
+    {
+      "Id": 4,
+      "BrandId": 1,
+      "productsName": "Nike Zoom",
+      "GraphicName": "nike_zoom.jpg",
+      "CostPrice": 110.00,
+      "MSRP": 140.00,
+      "QtyOnHand": 70,
+      "QtyOnBackOrder": 0,
+      "Description": "Nike Zoom shoes for fast runs."
+    },
+    {
+      "Id": 5,
+      "BrandId": 1,
+      "productsName": "Nike Metcon",
+      "GraphicName": "nike_metcon.jpg",
+      "CostPrice": 130.00,
+      "MSRP": 160.00,
+      "QtyOnHand": 50,
+      "QtyOnBackOrder": 0,
+      "Description": "Nike Metcon shoes for intense workouts."
+    },
+    {
+      "Id": 6,
+      "BrandId": 2,
+      "productsName": "Adidas Ultraboost",
+      "GraphicName": "adidas_ultraboost.jpg",
+      "CostPrice": 150.00,
+      "MSRP": 180.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 0,
+      "Description": "Adidas Ultraboost shoes, extremely comfortable."
+    },
+    {
+      "Id": 7,
+      "BrandId": 2,
+      "productsName": "Adidas NMD",
+      "GraphicName": "adidas_nmd.jpg",
+      "CostPrice": 140.00,
+      "MSRP": 170.00,
+      "QtyOnHand": 90,
+      "QtyOnBackOrder": 0,
+      "Description": "Adidas NMD shoes, stylish and versatile."
+    },
+    {
+      "Id": 8,
+      "BrandId": 2,
+      "productsName": "Adidas Gazelle",
+      "GraphicName": "adidas_gazelle.jpg",
+      "CostPrice": 100.00,
+      "MSRP": 130.00,
+      "QtyOnHand": 80,
+      "QtyOnBackOrder": 0,
+      "Description": "Adidas Gazelle shoes, a classic style."
+    },
+    {
+      "Id": 9,
+      "BrandId": 2,
+      "productsName": "Adidas Stan Smith",
+      "GraphicName": "adidas_stansmith.jpg",
+      "CostPrice": 110.00,
+      "MSRP": 140.00,
+      "QtyOnHand": 70,
+      "QtyOnBackOrder": 0,
+      "Description": "Adidas Stan Smith shoes, timeless design."
+    },
+    {
+      "Id": 10,
+      "BrandId": 2,
+      "productsName": "Adidas Superstar",
+      "GraphicName": "adidas_superstar.jpg",
+      "CostPrice": 120.00,
+      "MSRP": 150.00,
+      "QtyOnHand": 60,
+      "QtyOnBackOrder": 0,
+      "Description": "Adidas Superstar shoes, iconic style."
+    },
+    {
+      "Id": 11,
+      "BrandId": 3,
+      "productsName": "Puma Suede",
+      "GraphicName": "puma_suede.jpg",
+      "CostPrice": 90.00,
+      "MSRP": 120.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 0,
+      "Description": "Puma Suede shoes, classic and stylish."
+    },
+    {
+      "Id": 12,
+      "BrandId": 3,
+      "productsName": "Puma Roma",
+      "GraphicName": "puma_roma.jpg",
+      "CostPrice": 80.00,
+      "MSRP": 110.00,
+      "QtyOnHand": 90,
+      "QtyOnBackOrder": 0,
+      "Description": "Puma Roma shoes, sporty and comfortable."
+    },
+    {
+      "Id": 13,
+      "BrandId": 3,
+      "productsName": "Puma Future Rider",
+      "GraphicName": "puma_future_rider.jpg",
+      "CostPrice": 100.00,
+      "MSRP": 130.00,
+      "QtyOnHand": 80,
+      "QtyOnBackOrder": 0,
+      "Description": "Puma Future Rider shoes, modern design."
+    },
+    {
+      "Id": 14,
+      "BrandId": 3,
+      "productsName": "Puma RS-X",
+      "GraphicName": "puma_rsx.jpg",
+      "CostPrice": 110.00,
+      "MSRP": 140.00,
+      "QtyOnHand": 70,
+      "QtyOnBackOrder": 0,
+      "Description": "Puma RS-X shoes, futuristic style."
+    },
+    {
+      "Id": 15,
+      "BrandId": 3,
+      "productsName": "Puma Clyde",
+      "GraphicName": "puma_clyde.jpg",
+      "CostPrice": 95.00,
+      "MSRP": 125.00,
+      "QtyOnHand": 60,
+      "QtyOnBackOrder": 0,
+      "Description": "Puma Clyde shoes, classic and trendy."
+    }
+  ]
+}
